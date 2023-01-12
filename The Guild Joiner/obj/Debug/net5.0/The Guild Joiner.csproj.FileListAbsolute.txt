@@ -1,0 +1,16 @@
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.AssemblyInfo.cs
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.exe
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.deps.json
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.runtimeconfig.json
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.runtimeconfig.dev.json
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.dll
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\bin\Debug\net5.0\The Guild Joiner.pdb
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.dll
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\refint\The Guild Joiner.dll
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.pdb
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\The Guild Joiner.genruntimeconfig.cache
+C:\Users\lonni\source\repos\The Guild Joiner\The Guild Joiner\obj\Debug\net5.0\ref\The Guild Joiner.dll
